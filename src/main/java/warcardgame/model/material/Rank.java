@@ -1,4 +1,4 @@
-package warcardgame.model;
+package warcardgame.model.material;
 
 public enum Rank {
 	ACE("1"),

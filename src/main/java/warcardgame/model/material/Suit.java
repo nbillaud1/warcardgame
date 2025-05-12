@@ -1,4 +1,4 @@
-package warcardgame.model;
+package warcardgame.model.material;
 
 public enum Suit {
 	CLUBS("\u2663"),
