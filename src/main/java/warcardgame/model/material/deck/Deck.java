@@ -8,7 +8,7 @@ import warcardgame.model.material.Card;
 
 public class Deck {
 	
-	private ArrayList<Card> cards;
+	protected ArrayList<Card> cards;
 	
 	public Deck() {
 		this.cards = new ArrayList<>();
