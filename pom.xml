@@ -19,6 +19,14 @@
 			<version>5.8.2</version>
 			<scope>test</scope>
 		</dependency>
+	
+		<dependency>
+			<!-- Dépendance vers AssertJ -->
+	  		<groupId>org.assertj</groupId>
+			<artifactId>assertj-core</artifactId>
+	  		<version>3.27.2</version>
+	  		<scope>test</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
